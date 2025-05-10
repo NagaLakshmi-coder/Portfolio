@@ -14,7 +14,7 @@ body {
 
 header {
   text-align: center;
-  background: #d711c3;
+  background: hsl(285, 68%, 55%);
   color: white;
   padding: 40px 20px;
   border-radius: 8px;
